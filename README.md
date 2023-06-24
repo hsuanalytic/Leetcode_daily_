@@ -7,5 +7,6 @@ This repository contains my daily LeetCode problem-solving journey, where I aim 
 - [Problem 3](./problem-3): [Problem Name]
 
 ## About Me
-I am a beginner in LeetCode🔰, passionate about learning and problem-solving. I hope to see progress in my problem-solving skills as I encounter new challenges and improve my understanding of algorithms and data structures! Feel free to provide any feedback or alternative approaches. Let's support each other and grow together as aspiring programmers!
+I am a beginner in LeetCode🔰, passionate about learning and problem-solving. I hope to see progress in my problem-solving skills as I encounter new challenges and improve my understanding of algorithms and data structures! 
+Feel free to provide any feedback or alternative approaches. Let's support each other and grow together as aspiring programmers!
 Happy coding! 🚀
