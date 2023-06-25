@@ -1,5 +1,5 @@
 # Leetcode_daily_
-This repository contains my daily LeetCode problem-solving journey, where I aim to solve one problem per day and document my solutions.
+⭐ This repository contains my daily LeetCode problem-solving journey, where I aim to solve one problem per day and document my solutions.
 
 ## Table of Contents
 - [#1 Two Sum](Problems/1.Two_sum.md): Jun 24, 2023
