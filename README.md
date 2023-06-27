@@ -1,4 +1,4 @@
-# Leetcode_daily_⭐
+# Leetcode_Daily_⭐
 This repository contains my daily LeetCode problem-solving journey, where I aim to solve one problem per day and document my solutions.
 
 ## Table of Contents
