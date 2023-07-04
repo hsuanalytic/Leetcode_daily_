@@ -8,6 +8,7 @@ This repository contains my daily LeetCode problem-solving journey, where I aim 
 - [#242 Valid Anagram](Problems/242.Valid_anagram.md)
 - [#20 Valid Parentheses](Problems/20.Valid_parentheses.md)
 - [#53 Maximum Subarray](Problems/53.Maximum_subarray.md)
+- [#206 Reverse Linked List](Problems/206.Reverse_linked_list.md)
 
 ## About Me
 I am a beginner in LeetCode🔰, passionate about learning and problem-solving. I hope to see progress in my problem-solving skills as I encounter new challenges and improve my understanding of algorithms and data structures! 
